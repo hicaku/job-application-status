@@ -38,7 +38,8 @@ onMounted(() => {
         },
         tooltip: {
             headerFormat: "",
-            pointFormat: "{point.name}: <b>{point.percentage:.1f}%</b>",
+            pointFormat:
+                "{point.name}: <b>{point.percentage:.1f}% ({point.y})</b>",
         },
         plotOptions: {
             pie: {
