@@ -1,0 +1,572 @@
+[
+    {
+        "company": "Twitter",
+        "statusIndex": 1,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Trendyol",
+        "statusIndex": 3,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Proportunity",
+        "statusIndex": 0,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Qatalog",
+        "statusIndex": 0,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Plentific",
+        "statusIndex": 0,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Faceit",
+        "statusIndex": 1,
+        "applicationDate": "24-11-2021"
+    },
+    {
+        "company": "Hepsiburada",
+        "statusIndex": 3,
+        "applicationDate": "13-12-2021"
+    },
+    {
+        "company": "Amazon(Spain)",
+        "statusIndex": 3,
+        "applicationDate": "14-12-2021"
+    },
+    {
+        "company": "Glovo",
+        "statusIndex": 0,
+        "applicationDate": "04-03-2022"
+    },
+    {
+        "company": "Amazon",
+        "statusIndex": 1,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "Client Server",
+        "statusIndex": 0,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "Uphold",
+        "statusIndex": 0,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "ADP",
+        "statusIndex": 0,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "Würth",
+        "statusIndex": 1,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "Bending Spoons",
+        "statusIndex": 1,
+        "applicationDate": "31-03-2022"
+    },
+    {
+        "company": "Meta",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "EA",
+        "statusIndex": 1,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Microsoft",
+        "statusIndex": 1,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Atlassian",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "knak",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Barley",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Adidas",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Warner Music Group",
+        "statusIndex": 1,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "Glovo",
+        "statusIndex": 0,
+        "applicationDate": "24-04-2022"
+    },
+    {
+        "company": "loadbee GmbH",
+        "statusIndex": 0,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Jellysmack",
+        "statusIndex": 0,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "SSI SCHAFER IT",
+        "statusIndex": 1,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Acronis",
+        "statusIndex": 3,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Zeppelin",
+        "statusIndex": 0,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Tricentis",
+        "statusIndex": 0,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Kaufland",
+        "statusIndex": 0,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Kuehne Nagel",
+        "statusIndex": 1,
+        "applicationDate": "29-04-2022"
+    },
+    {
+        "company": "Scoro",
+        "statusIndex": 1,
+        "applicationDate": "03-05-2022"
+    },
+    {
+        "company": "Gympass",
+        "statusIndex": 0,
+        "applicationDate": "04-05-2022"
+    },
+    {
+        "company": "kloeckner.i",
+        "statusIndex": 1,
+        "applicationDate": "04-05-2022"
+    },
+    {
+        "company": "Data Guard",
+        "statusIndex": 1,
+        "applicationDate": "04-05-2022"
+    },
+    {
+        "company": "Accounts IQ",
+        "statusIndex": 1,
+        "applicationDate": "04-05-2022"
+    },
+    {
+        "company": "Evident",
+        "statusIndex": 1,
+        "applicationDate": "04-05-2022"
+    },
+    {
+        "company": "Finnair",
+        "statusIndex": 0,
+        "applicationDate": "05-05-2022"
+    },
+    {
+        "company": "Volkswagen",
+        "statusIndex": 0,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "ARRK Engineering",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Fever",
+        "statusIndex": 0,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Gearset",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Analyzify",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "HireIn Cloud",
+        "statusIndex": 0,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Knowledge Services",
+        "statusIndex": 0,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "World of Content",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Cathcart Associates",
+        "statusIndex": 0,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "E-Frontiers",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "NFQ",
+        "statusIndex": 1,
+        "applicationDate": "10-05-2022"
+    },
+    {
+        "company": "Jellysmack",
+        "statusIndex": 0,
+        "applicationDate": "29-05-2022"
+    },
+    {
+        "company": "Jellysmack",
+        "statusIndex": 0,
+        "applicationDate": "29-05-2022"
+    },
+    {
+        "company": "Vole",
+        "statusIndex": 2,
+        "applicationDate": "23-06-2022"
+    },
+    {
+        "company": "Just Watch",
+        "statusIndex": 0,
+        "applicationDate": "23-06-2022"
+    },
+    {
+        "company": "Reaktor",
+        "statusIndex": 0,
+        "applicationDate": "23-06-2022"
+    },
+    {
+        "company": "Game House",
+        "statusIndex": 1,
+        "applicationDate": "23-06-2022"
+    },
+    {
+        "company": "Hapag Lloyd AG",
+        "statusIndex": 1,
+        "applicationDate": "15-07-2022"
+    },
+    {
+        "company": "MARC O'POLO",
+        "statusIndex": 0,
+        "applicationDate": "30-07-2022"
+    },
+    {
+        "company": "Imaginary Cloud",
+        "statusIndex": 1,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "Kinesso",
+        "statusIndex": 1,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "QAD Inc.",
+        "statusIndex": 0,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "PlayStation Global",
+        "statusIndex": 1,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "HOLOPLOT",
+        "statusIndex": 1,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "Tabit GmbH",
+        "statusIndex": 0,
+        "applicationDate": "31-07-2022"
+    },
+    {
+        "company": "On",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "HubSpot",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "JD Sports Fashion",
+        "statusIndex": 0,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Empresaria Group",
+        "statusIndex": 0,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "AND",
+        "statusIndex": 0,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Forsta",
+        "statusIndex": 0,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Byborg IP",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Nets",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Betsson Group",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Magic Media",
+        "statusIndex": 1,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Exadel",
+        "statusIndex": 0,
+        "applicationDate": "02-08-2022"
+    },
+    {
+        "company": "Fibabanka",
+        "statusIndex": 1,
+        "applicationDate": "04-08-2022"
+    },
+    {
+        "company": "TourRadar",
+        "statusIndex": 1,
+        "applicationDate": "04-08-2022"
+    },
+    {
+        "company": "Spotawheel",
+        "statusIndex": 1,
+        "applicationDate": "07-08-2022"
+    },
+    {
+        "company": "Trendyol",
+        "statusIndex": 1,
+        "applicationDate": "07-08-2022"
+    },
+    {
+        "company": "Takeda",
+        "statusIndex": 1,
+        "applicationDate": "07-08-2022"
+    },
+    {
+        "company": "Athlon",
+        "statusIndex": 0,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Calystral Games GmbH",
+        "statusIndex": 1,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Talisman Corporation",
+        "statusIndex": 0,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "HubSpot",
+        "statusIndex": 1,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Smart Protection",
+        "statusIndex": 0,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Black Tree Gaming",
+        "statusIndex": 0,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Nobl9",
+        "statusIndex": 1,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Faceit",
+        "statusIndex": 0,
+        "applicationDate": "14-08-2022"
+    },
+    {
+        "company": "Vispera",
+        "statusIndex": 4,
+        "applicationDate": "19-08-2022"
+    },
+    {
+        "company": "Zeplin",
+        "statusIndex": 3,
+        "applicationDate": "22-08-2022"
+    },
+    {
+        "company": "Toptal",
+        "statusIndex": 2,
+        "applicationDate": "22-08-2022"
+    },
+    {
+        "company": "Talent Place",
+        "statusIndex": 1,
+        "applicationDate": "26-08-2022"
+    },
+    {
+        "company": "IBTECH",
+        "statusIndex": 2,
+        "applicationDate": "29-08-2022"
+    },
+    {
+        "company": "Codefield",
+        "statusIndex": 1,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "OPSWAT",
+        "statusIndex": 1,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Experiencegift",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "CorPower Ocean",
+        "statusIndex": 1,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "boohoo group",
+        "statusIndex": 1,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Wunderman Thompson",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Splashlight & Telmar",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Darwin Recruitment",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Kanda Software",
+        "statusIndex": 1,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Imaginary Cloud",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Cloudflare",
+        "statusIndex": 0,
+        "applicationDate": "03-09-2022"
+    },
+    {
+        "company": "Danske Bank Group",
+        "statusIndex": 0,
+        "applicationDate": "11-09-2022"
+    },
+    {
+        "company": "Intropic Limited",
+        "statusIndex": 1,
+        "applicationDate": "14-09-2022"
+    },
+    {
+        "company": "Showpad",
+        "statusIndex": 1,
+        "applicationDate": "14-09-2022"
+    },
+    {
+        "company": "Royal Dutch Gazelle",
+        "statusIndex": 1,
+        "applicationDate": "14-09-2022"
+    },
+    {
+        "company": "Amaris Consulting",
+        "statusIndex": 1,
+        "applicationDate": "05-10-2022"
+    },
+    {
+        "company": "PIXSELECT",
+        "statusIndex": 4,
+        "applicationDate": "05-10-2022"
+    },
+    {
+        "company": "CareerFoundry",
+        "statusIndex": 1,
+        "applicationDate": "05-10-2022"
+    },
+    {
+        "company": "Cooper Lomaz",
+        "statusIndex": 0,
+        "applicationDate": "25-10-2022"
+    },
+    {
+        "company": "Appfire Technologies",
+        "statusIndex": 0,
+        "applicationDate": "26-10-2022"
+    },
+    {
+        "company": "CD PROJEKT RED",
+        "statusIndex": 0,
+        "applicationDate": "28-10-2022"
+    }
+]
