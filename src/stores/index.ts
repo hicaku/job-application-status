@@ -19,7 +19,6 @@ export const useIndexStore = defineStore({
     id: "index",
     state: () => ({
         jobs: jobs as Job[],
+        activeSorting: 2,
     }),
-    getters: {},
-    actions: {},
 });

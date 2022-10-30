@@ -210,6 +210,11 @@
         "applicationDate": "10-05-2022"
     },
     {
+        "company": "Google(Germany)",
+        "statusIndex": 3,
+        "applicationDate": "10-05-2022"
+    },
+    {
         "company": "Gearset",
         "statusIndex": 1,
         "applicationDate": "10-05-2022"
@@ -535,6 +540,11 @@
         "applicationDate": "14-09-2022"
     },
     {
+        "company": "Lc Waikiki",
+        "statusIndex": 2,
+        "applicationDate": "14-09-2022"
+    },
+    {
         "company": "Royal Dutch Gazelle",
         "statusIndex": 1,
         "applicationDate": "14-09-2022"
@@ -562,6 +572,11 @@
     {
         "company": "Appfire Technologies",
         "statusIndex": 0,
+        "applicationDate": "26-10-2022"
+    },
+    {
+        "company": "Jotform",
+        "statusIndex": 1,
         "applicationDate": "26-10-2022"
     },
     {

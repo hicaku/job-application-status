@@ -6,20 +6,20 @@ import { onMounted } from "vue";
 const store = useIndexStore();
 const { jobs } = store;
 
-onMounted(() => {
-    const counts = [] as any;
-    for (const job of jobs) {
-        counts[job.statusIndex] = counts[job.statusIndex]
-            ? counts[job.statusIndex] + 1
-            : 1;
-    }
-    const plotData = [] as Array<Object>;
-    counts.forEach((count: number, index: number) => {
-        plotData.push({
-            name: jobStatus[index],
-            y: count,
-        });
+const counts = [] as any;
+for (const job of jobs) {
+    counts[job.statusIndex] = counts[job.statusIndex]
+        ? counts[job.statusIndex] + 1
+        : 1;
+}
+const plotData = [] as any;
+counts.forEach((count: number, index: number) => {
+    plotData.push({
+        name: jobStatus[index],
+        y: count,
     });
+});
+onMounted(() => {
     const options = {
         chart: {
             renderTo: "jobsChart",
@@ -47,8 +47,12 @@ onMounted(() => {
                 cursor: "pointer",
                 dataLabels: {
                     enabled: true,
-                    color: "#fff",
+                    style: {
+                        color: "#fff",
+                        fontSize: "18px",
+                    },
                 },
+                colors: ["#4d4d4d", "#4d0404", "#004085", "#d48302", "#1ba300"],
             },
         },
         series: [
@@ -67,5 +71,19 @@ onMounted(() => {
 </script>
 
 <template>
-    <div class="w-full pt-1 pl-5 mt-5"><div id="jobsChart"></div></div>
+    <div class="w-full pt-1 pl-5 mt-5">
+        <div id="jobsChart"></div>
+        <div class="w-full p-5">
+            <table class="table-auto w-full">
+                <tr class="border-b">
+                    <th class="text-left">Status</th>
+                    <th class="text-right">Count</th>
+                </tr>
+                <tr v-for="(status, index) in plotData" :key="index">
+                    <td>{{ status.name }}</td>
+                    <td class="text-right">{{ status.y }}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
 </template>
