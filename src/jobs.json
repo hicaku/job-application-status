@@ -581,62 +581,27 @@
     },
     {
         "company": "CD PROJEKT RED",
-        "statusIndex": 0,
+        "statusIndex": 1,
         "applicationDate": "28-10-2022"
     },
     {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
-        "company": "DDDD",
-        "statusIndex": 0,
-        "applicationDate": "31-10-2022"
-    },
-    {
         "company": "BNY Mellon",
-        "statusIndex": 0,
+        "statusIndex": 1,
+        "applicationDate": "31-10-2022"
+    },
+    {
+        "company": "Stealth Startup",
+        "statusIndex": 1,
+        "applicationDate": "31-10-2022"
+    },
+    {
+        "company": "Brilliant",
+        "statusIndex": 1,
+        "applicationDate": "31-10-2022"
+    },
+    {
+        "company": "Motion Recruitment",
+        "statusIndex": 1,
         "applicationDate": "31-10-2022"
     },
     {
@@ -651,7 +616,7 @@
     },
     {
         "company": "NLB Services",
-        "statusIndex": 0,
+        "statusIndex": 1,
         "applicationDate": "31-10-2022"
     },
     {
@@ -671,12 +636,72 @@
     },
     {
         "company": "Top Edge Technology",
-        "statusIndex": 0,
+        "statusIndex": 1,
         "applicationDate": "31-10-2022"
     },
     {
         "company": "Studio",
         "statusIndex": 0,
         "applicationDate": "31-10-2022"
+    },
+    {
+        "company": "Plexus",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "CarCutter",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "Experis IT",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "TeamViewer",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "Pentasia",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "MultiBank Group",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "Archer - The IT Recruitment",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "VI Labs",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "JSAN Consulting Group",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "Devoteam",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "European Recruitment",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "Emotiva",
+        "statusIndex": 0,
+        "applicationDate": "07-11-2022"
     }
 ]
