@@ -703,5 +703,35 @@
         "company": "Emotiva",
         "statusIndex": 0,
         "applicationDate": "07-11-2022"
+    },
+    {
+        "company": "TAV Technologies",
+        "statusIndex": 0,
+        "applicationDate": "16-11-2022"
+    },
+    {
+        "company": "Kaizen Technology",
+        "statusIndex": 0,
+        "applicationDate": "16-11-2022"
+    },
+    {
+        "company": "OBSS",
+        "statusIndex": 0,
+        "applicationDate": "16-11-2022"
+    },
+    {
+        "company": "Nesine.com",
+        "statusIndex": 0,
+        "applicationDate": "16-11-2022"
+    },
+    {
+        "company": "GoArt Metaverse",
+        "statusIndex": 0,
+        "applicationDate": "16-11-2022"
+    },
+    {
+        "company": "Webtures",
+        "statusIndex": 0,
+        "applicationDate": "18-11-2022"
     }
 ]
