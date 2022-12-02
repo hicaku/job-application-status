@@ -525,8 +525,18 @@
         "applicationDate": "03-09-2022"
     },
     {
+        "company": "Mobilist Human Resources",
+        "statusIndex": 2,
+        "applicationDate": "03-09-2022"
+    },
+    {
         "company": "Danske Bank Group",
         "statusIndex": 0,
+        "applicationDate": "11-09-2022"
+    },
+    {
+        "company": "Cartel",
+        "statusIndex": 2,
         "applicationDate": "11-09-2022"
     },
     {
