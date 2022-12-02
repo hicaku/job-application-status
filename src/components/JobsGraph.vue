@@ -72,6 +72,9 @@ onMounted(() => {
 
 <template>
     <div class="w-full pt-1 pl-5 mt-5">
+        <div class="font-bold text-3xl text-center mb-20">
+            Finally Got An Offer and Took It! 🎉🎉🥳
+        </div>
         <div id="jobsChart"></div>
         <div class="w-full p-5">
             <table class="table-auto w-full">
@@ -82,6 +85,18 @@ onMounted(() => {
                 <tr v-for="(status, index) in plotData" :key="index">
                     <td>{{ status.name }}</td>
                     <td class="text-right">{{ status.y }}</td>
+                </tr>
+                <tr class="border-t">
+                    <th class="text-left">Total</th>
+                    <th class="text-right">
+                        {{
+                            plotData.reduce(
+                                (currentVal: any, status: any) =>
+                                    currentVal + status.y,
+                                0
+                            )
+                        }}
+                    </th>
                 </tr>
             </table>
         </div>
